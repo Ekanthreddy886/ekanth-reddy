@@ -93,6 +93,6 @@ sudo apt-get install iverilog
 
 ### GTkWave
 ``` sudo apt-get install gtkwave ```
-![gtkwave](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/6a6e671f-7f0d-4acb-97a4-49c25a225b2b)
+![gtkwave]![WhatsApp Image 2024-02-21 at 19 43 27_e016df03](https://github.com/Ekanthreddy886/ekanth-reddy/assets/159982724/2194a29f-4e0c-4d41-96d1-1cba1197ef02)
 
 
