@@ -80,7 +80,8 @@ make
 sudo make install
 ```
 
-![yosys]!
+![yosys]![WhatsApp Image 2024-02-21 at 19 43 27_e016df03](https://github.com/Ekanthreddy886/ekanth-reddy/assets/159982724/d3f04f65-68d1-4bd1-8045-89ddbe09ca89)
+
 ### iVerilog
 
 ```
