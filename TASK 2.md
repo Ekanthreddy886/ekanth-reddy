@@ -44,7 +44,8 @@
 
 <details>
 <summary><b>Instruction code format </b></summary>
-	<br>
+	<br>![inst](https://github.com/Ekanthreddy886/ekanth-reddy/assets/159982724/74e0b386-1ee8-4164-b97a-171779a4c5d6)
+
 
 
 </details>
