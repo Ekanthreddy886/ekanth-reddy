@@ -2,9 +2,10 @@
 
 **The C code should undergo the simulation of normal GCC X86 Compiler and riscv compiler** (**SPIKE Simulation**) 
 
+
+
+
 **AS PER THE REQUIREMENT OUTPUT OF GCC (F1) SHOULD BE EQUAL = TO OUTPUT OF RISCV GCC (F2)**
-
-
 
 **Step - 1: To Run the code in the normal GCC Compiler**
             **To compile the code: gcc sum1ton.c -o sum1ton**
