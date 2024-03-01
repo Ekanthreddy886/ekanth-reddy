@@ -60,7 +60,6 @@ If the leafpad editor is opened without any errors then type the C code.**
 ![checking instructions_in_main_C_Code_15_instructions]![WhatsApp Image 2024-03-01 at 17 49 12_226e0e3b](https://github.com/Ekanthreddy886/ekanth-reddy/assets/159982724/88fdfc5c-3ae9-46cd-890b-dc3d5a64fcc2)
 
 
-![checking instructions_in_main_C_Code_15_instructions_highlighted](https://github.com/Abdulbitm/Abdul/assets/160620896/0a07ba3e-4a3d-41a7-a158-3ef976ce0292)
 
 
 **Step 4:**
